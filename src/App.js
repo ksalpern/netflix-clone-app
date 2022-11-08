@@ -1,10 +1,11 @@
 import React from "react";
 import "./App.css";
+import Homescreen from "./components/Homescreen";
 
 function App() {
   return (
     <div>
-      <h1>Let's build Netflix</h1>
+      <Homescreen/>
     </div>
   );
 }
