@@ -32,12 +32,12 @@
 
 1. Download or clone this repository
 
-2. Install its dependencies: npm install / yarn
+2. Install its dependencies: **npm install / yarn**
 
-3. Go to **_src/features/Requests.js_** and add your API_KEY
+3. Go to **_src/features/Requests.js_** and add your **API_KEY**
 
-4. Build the project: npm run build / yarn build
+4. Build the project: **npm run build / yarn build**
 
-5. Start the project: npm start / yarn start
+5. Start the project: **npm start / yarn start**
 
 6. The website is now working, hope you enjoy it 😃
