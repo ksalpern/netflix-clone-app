@@ -1,5 +1,7 @@
 # Netflix clone app
 
+[See](https://netflix-clone-app-c2822.web.app/) final result😃
+
 ## What you can find in this project:
 
 👉 a Log In and Log Out Authentication Flow with Google!
@@ -12,7 +14,7 @@
 
 👉 the Firebase extension for synchronising Stripe Recurring Payments with Users
 
-👉 deploy the final build using Firebase Hosting!
+👉 the final deploy using Firebase Hosting!
 
 ## Tech Stack
 
@@ -36,8 +38,10 @@
 
 3. Go to **_src/features/Requests.js_** and add your **API_KEY**
 
-4. Build the project: **npm run build / yarn build**
+4. Go to **_src/components/Plans.js_** and add your **Stripe Publishable key**
 
-5. Start the project: **npm start / yarn start**
+5. Build the project: **npm run build / yarn build**
 
-6. The website is now working, hope you enjoy it 😃
+6. Start the project: **npm start / yarn start**
+
+7. The website is now working, hope you enjoy it 😃
