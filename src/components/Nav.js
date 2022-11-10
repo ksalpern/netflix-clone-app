@@ -25,7 +25,7 @@ function Nav() {
         <img
           onClick={() => histoty("/")}
           className="nav__logo"
-          src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"
+          src="https://down.imgspng.com/download/0720/netflix_PNG24.png"
           alt=""
         />
         <img
