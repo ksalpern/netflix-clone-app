@@ -1,6 +1,6 @@
 # Netflix clone app
 
-[See](https://netflix-clone-app-c2822.web.app/) final result😃
+[See](https://netflix-clone-app-c2822.web.app/) the final result😃
 
 ## What you can find in this project:
 
